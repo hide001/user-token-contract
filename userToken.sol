@@ -68,7 +68,7 @@ contract owned {
  
 
     
-contract EAToken is owned {
+contract USRToken is owned {
     
 
     /*===============================
